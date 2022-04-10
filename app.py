@@ -37,5 +37,3 @@ def rate_receipt():
         Your decision was {decision}
         '''
         return message
-
-print('zmiana')        
